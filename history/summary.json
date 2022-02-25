@@ -4,19 +4,19 @@
     "url": "https://www.rea.ink",
     "icon": "https://favicons.githubusercontent.com/www.rea.ink",
     "slug": "rea-l",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 1211,
-    "timeWeek": 1071,
-    "timeMonth": 1071,
-    "timeYear": 1071,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1040,
+    "timeDay": 1031,
+    "timeWeek": 1040,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2022-02-25": 0
+      "2022-02-25": 9
     }
   }
 ]
