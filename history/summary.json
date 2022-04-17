@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.rea.ink",
     "slug": "rea-l",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1764,
-    "timeDay": 1854,
-    "timeWeek": 1881,
-    "timeMonth": 2045,
-    "timeYear": 1764,
+    "uptimeYear": "99.97%",
+    "time": 1771,
+    "timeDay": 2190,
+    "timeWeek": 1938,
+    "timeMonth": 2066,
+    "timeYear": 1771,
     "dailyMinutesDown": {
       "2022-03-01": 27
     }
