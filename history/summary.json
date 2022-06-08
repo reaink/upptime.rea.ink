@@ -4,7 +4,7 @@
     "url": "https://www.rea.ink",
     "icon": "https://favicons.githubusercontent.com/www.rea.ink",
     "slug": "rea-l",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 2603,
     "timeYear": 2228,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-06-04": 16,
       "2022-05-16": 84,
       "2022-05-15": 164,
