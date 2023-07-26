@@ -4,19 +4,19 @@
     "url": "https://www.rea.ink",
     "icon": "https://icons.duckduckgo.com/ip3/www.rea.ink.ico",
     "slug": "rea-l",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2365,
-    "timeDay": 2123,
-    "timeWeek": 2322,
-    "timeMonth": 2457,
+    "time": 2367,
+    "timeDay": 2245,
+    "timeWeek": 2341,
+    "timeMonth": 2458,
     "timeYear": 2436,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 7
     }
   }
 ]
