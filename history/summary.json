@@ -6,17 +6,15 @@
     "slug": "rea-l",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2369,
-    "timeDay": 2313,
-    "timeWeek": 2358,
-    "timeMonth": 2460,
-    "timeYear": 2436,
-    "dailyMinutesDown": {
-      "2023-07-26": 7
-    }
+    "time": 2370,
+    "timeDay": 2290,
+    "timeWeek": 2376,
+    "timeMonth": 2447,
+    "timeYear": 2437,
+    "dailyMinutesDown": {}
   }
 ]
