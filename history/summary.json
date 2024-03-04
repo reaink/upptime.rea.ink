@@ -4,17 +4,19 @@
     "url": "https://www.rea.ink",
     "icon": "https://icons.duckduckgo.com/ip3/www.rea.ink.ico",
     "slug": "rea-l",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2541,
+    "time": 2542,
     "timeDay": 2653,
     "timeWeek": 2949,
     "timeMonth": 2704,
     "timeYear": 2577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   }
 ]
