@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rea.ink.ico",
     "slug": "rea-l",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2687,
-    "timeDay": 2779,
-    "timeWeek": 3167,
-    "timeMonth": 2694,
-    "timeYear": 2772,
+    "time": 2688,
+    "timeDay": 2955,
+    "timeWeek": 3181,
+    "timeMonth": 2703,
+    "timeYear": 2774,
     "dailyMinutesDown": {
       "2024-07-15": 59
     }
